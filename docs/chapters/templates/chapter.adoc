@@ -294,7 +294,7 @@ Labels ger etiketter till andra form-element. Genom att sätt `for`-attributet p
 .Element med labels
 ----
 <!-- i ett form-element -->
-<label f [or="fruit">Frukt</label>
+<label for="fruit">Frukt</label>
 <input type="text" id="fruit" name="fruit">
 
 <input type="checkbox" id="favourite" name="favourite">
